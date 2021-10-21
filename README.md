@@ -1,2 +1,2 @@
 # Machine-Learning-Project-Pokèmon
-La domanda a cui si è voluto rispondere riguarda la possibilità di capire dal primo approccio con un Pokémon, esclusivamente dalle sue caratteristiche estetiche, se questo risulterà essere forte o addirittura leggendario.
+The question we wanted to answer concerns the possibility of understanding from the first approach with a Pokémon, exclusively from its aesthetic characteristics, if this will turn out to be strong or even legendary.
